@@ -1,0 +1,119 @@
+[33mcommit ccbf18fef891bfa3a1394ebdcc0fca1b544b7542[m
+Author: yogesh <yogeshsalvi@sinhgad.edu>
+Date:   Sat Jul 9 12:41:15 2016 +0530
+
+    Rounded up to 10 li's
+
+[33mcommit 28ca20886d33ed317856be79289af5e85550ae2f[m
+Merge: d674469 c90fa2b
+Author: yogeshsalvi21 <yogeshsalvi@sinhgad.edu>
+Date:   Fri Jun 24 13:15:28 2016 +0530
+
+    Merge pull request #4 from yogeshsalvi21/testing
+    
+    Added li value
+
+[33mcommit c90fa2bfffcab1b8349df245eba2572dffada945[m
+Author: yogeshsalvi21 <yogeshsalvi@sinhgad.edu>
+Date:   Fri Jun 24 12:46:24 2016 +0530
+
+    Added li value
+
+[33mcommit d6744699848412d27da0fb15e4ec6d32ff2e41d0[m
+Merge: f2de257 e270019
+Author: yogeshsalvi21 <yogeshsalvi@sinhgad.edu>
+Date:   Wed May 18 15:20:58 2016 +0530
+
+    Merge pull request #3 from yogeshsalvi21/nav
+    
+    Added Navigation tags
+
+[33mcommit e270019984f91afae52fa815e0072eacc71b29da[m
+Author: yogesh <yogeshsalvi@sinhgad.edu>
+Date:   Wed May 18 15:18:04 2016 +0530
+
+    Added Navigation tags
+
+[33mcommit f2de2575f1b09340bf31187724fdf6de2cc086c5[m
+Author: yogeshsalvi21 <yogeshsalvi@sinhgad.edu>
+Date:   Wed May 18 15:14:46 2016 +0530
+
+    Chenges
+
+[33mcommit 5e5b1c90ee5782f5aadfdaa6d89d413488d78bd5[m
+Author: yogesh <yogeshsalvi@sinhgad.edu>
+Date:   Wed May 18 15:13:56 2016 +0530
+
+    adding
+
+[33mcommit 16376ab85b7ec87ac4fcc06f03310f604a031556[m
+Author: yogeshsalvi21 <yogeshsalvi@sinhgad.edu>
+Date:   Wed May 18 15:09:51 2016 +0530
+
+    blanked
+
+[33mcommit 72a30c24ab7d0c1b078c35acff39510e68b1d47c[m
+Author: yogesh <yogeshsalvi@sinhgad.edu>
+Date:   Wed May 18 15:09:05 2016 +0530
+
+    Updated CSS
+
+[33mcommit dc0fa8e84d0a25215c3960320c4b6663049859f5[m
+Author: yogeshsalvi21 <yogeshsalvi@sinhgad.edu>
+Date:   Wed May 18 15:03:50 2016 +0530
+
+    Removed Additional JS FIles
+
+[33mcommit 31ff67545b552f39603c23a432b4bc59ac9e5144[m
+Author: yogesh <yogeshsalvi@sinhgad.edu>
+Date:   Wed May 18 14:36:04 2016 +0530
+
+    Resetting index.html
+
+[33mcommit 3d5b6f27010396e29f1ec58e1aa52021e933dd1f[m
+Author: yogesh <yogeshsalvi@sinhgad.edu>
+Date:   Tue May 17 14:51:05 2016 +0530
+
+    Another Update
+
+[33mcommit 490a1c32ee8407f0a1fc2a2be6293ca06171e421[m
+Author: yogesh <yogeshsalvi@sinhgad.edu>
+Date:   Tue May 17 14:48:04 2016 +0530
+
+    Updated
+
+[33mcommit ca856b51840222037426a566350b9cb9a62cfbc4[m
+Merge: e74e99e bae206f
+Author: yogeshsalvi21 <yogeshsalvi@sinhgad.edu>
+Date:   Tue May 17 13:28:09 2016 +0530
+
+    Merge pull request #2 from yogeshsalvi21/html
+    
+    Removed Primary Navigation code
+
+[33mcommit bae206f851282c1d8e839015d742a3dd13dd28fd[m
+Author: yogesh <yogeshsalvi@sinhgad.edu>
+Date:   Tue May 17 13:16:15 2016 +0530
+
+    Removed Primary Navigation code
+
+[33mcommit e74e99ef3176bc67e9c4f42805c376821d4e9c44[m
+Merge: 0fa1391 c4cb8a7
+Author: yogeshsalvi21 <yogeshsalvi@sinhgad.edu>
+Date:   Tue May 17 13:14:15 2016 +0530
+
+    Merge pull request #1 from yogeshsalvi21/html
+    
+    Adding index.html File
+
+[33mcommit c4cb8a7bc6ef93a98a6e309dde21c57c6d631708[m
+Author: yogesh <yogeshsalvi@sinhgad.edu>
+Date:   Tue May 17 12:56:32 2016 +0530
+
+    Adding index.html File
+
+[33mcommit 0fa1391d734b87a576d6d159ddd12b60e48df281[m
+Author: yogeshsalvi21 <yogeshsalvi@sinhgad.edu>
+Date:   Tue May 17 12:47:01 2016 +0530
+
+    Initial commit
